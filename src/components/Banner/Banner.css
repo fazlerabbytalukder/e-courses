@@ -1,0 +1,13 @@
+.button1{
+    border: none;
+    padding: 0.5rem 1rem;
+    background-color: #F95847;
+    color: white;
+    font-weight: bold;
+    border-radius: .2rem;
+}
+
+.button1:hover{
+    background-color: transparent;
+    border: 1px solid #F95847;
+}
