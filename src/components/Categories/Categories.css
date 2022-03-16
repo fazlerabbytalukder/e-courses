@@ -1,0 +1,49 @@
+.card-background{
+    background-color: #393b66;
+    border-radius: 1.4rem;
+}
+
+.category-background{
+    background-color: #2A2C53;
+    height: 23rem;
+}
+
+.button2{
+    border: none;
+    padding: 0.5rem 1rem;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    border-radius: .2rem;
+}
+
+.button2:hover{
+    background-color: transparent;
+    border: 1px solid #6D60F1;
+    color: white;
+}
+
+.icon-design-1{
+    background-color: #6E62F1;
+    padding: .7rem;
+    border-radius: .7rem;
+    margin-bottom: 1rem;
+}
+.icon-design-2{
+    background-color: #FA5745;
+    padding: .7rem;
+    border-radius: .7rem;
+    margin-bottom: 1rem;
+}
+.icon-design-3{
+    background-color: #02BE91;
+    padding: .7rem;
+    border-radius: .7rem;
+    margin-bottom: 1rem;
+}
+.icon-design-4{
+    background-color: #EBBF55;
+    padding: .7rem;
+    border-radius: .7rem;
+    margin-bottom: 1rem;
+}
