@@ -4,6 +4,7 @@ import Categories from '../Categories/Categories';
 import Faq from '../Faq/Faq';
 import Navbar from '../Navbar/Navbar';
 import PopularCourses from '../PopularCourses/PopularCourses';
+import Testimonials from '../Testimonials/Testimonials';
 import './Home.css';
 
 const Home = () => {
@@ -14,6 +15,7 @@ const Home = () => {
             <Categories></Categories>
             <PopularCourses></PopularCourses>
             <Faq></Faq>
+            <Testimonials></Testimonials>
         </div>
     );
 };
