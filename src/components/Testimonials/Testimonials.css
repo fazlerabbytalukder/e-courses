@@ -1,0 +1,33 @@
+.avatar{
+    width: 6rem;
+    height: 6rem;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto 1rem;
+    border: .5rem solid #6D60F1;
+}
+
+.testimonial-info{
+    text-align: center;
+}
+
+.testimonial-body{
+    background-color: #6D60F1;
+    padding: 1.7rem 1rem;
+    border-radius: .2rem;
+    margin-top: 3rem;
+    position: relative;
+}
+
+.testimonial-body::before{
+    content: "";
+    display: block;
+    background: #6D60F1;
+    background: linear-gradient(135deg,transparent,#6D60F1,#6D60F1,#6D60F1);
+    width: 3rem;
+    height: 3rem;
+    position: absolute;
+    left: 43%;
+    top: -1.5rem;
+    transform: rotate(45deg);
+}
