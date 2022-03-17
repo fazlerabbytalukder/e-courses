@@ -1,0 +1,12 @@
+.card-background-pc{
+    background-color: #393B66;
+}
+
+.card-background-pc:hover{
+    background-color: transparent;
+    border: 1px solid #6D60F1;
+}
+
+.card-height{
+    height: 25.5rem;
+}

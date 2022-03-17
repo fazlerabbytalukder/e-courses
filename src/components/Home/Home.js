@@ -2,6 +2,7 @@ import React from 'react';
 import Banner from '../Banner/Banner';
 import Categories from '../Categories/Categories';
 import Navbar from '../Navbar/Navbar';
+import PopularCourses from '../PopularCourses/PopularCourses';
 import './Home.css';
 
 const Home = () => {
@@ -10,6 +11,7 @@ const Home = () => {
             <Navbar></Navbar>
             <Banner></Banner>
             <Categories></Categories>
+            <PopularCourses></PopularCourses>
         </div>
     );
 };

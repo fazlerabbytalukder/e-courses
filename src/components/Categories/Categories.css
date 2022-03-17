@@ -5,16 +5,14 @@
 
 .category-background{
     background-color: #2A2C53;
-    height: 23rem;
 }
 
 .button2{
     border: none;
-    padding: 0.5rem 1rem;
+    padding: 0.7rem 1.2rem;
     background-color: white;
     color: black;
-    font-weight: bold;
-    border-radius: .2rem;
+    border-radius: .1rem;
 }
 
 .button2:hover{

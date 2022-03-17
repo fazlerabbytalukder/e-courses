@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "ProjectName": "Deep Learning Specialization",
+        "ProjectDetails": "Become a Machine Learning expert. Master the fundamentals of deep learning and break into AI. Recently updated with cutting-edge techniques!",
+        "img":"https://i.ibb.co/X8yBtHh/Deep-Learning-Specialization.png",
+        "star":"5"
+    },
+    {
+        "id": 2,
+        "ProjectName": "IBM DevOps and Software Engineering",
+        "ProjectDetails": "Launch your DevOps and Software Engineering Career. Master DevOps, Agile, Scrum, CI/CD and Cloud Native with hands-on job-ready skills.",
+        "img":"https://i.ibb.co/jrZsDJg/IBM-Dev-Ops-and-Software-Engineering.jpg",
+        "star":"4"
+    },
+    {
+        "id": 3,
+        "ProjectName": "Applied Data Science Specialization",
+        "ProjectDetails": "Get hands-on skills for a career in data science. Learn Python, analyze and visualize data. Apply your skills to data science and machine learning.",
+        "img":"https://i.ibb.co/ZBCyhjm/Applied-Data-Science-Specialization.png",
+        "star":"4"
+    },
+    {
+        "id": 4,
+        "ProjectName": "IBM Full Stack Cloud Developer",
+        "ProjectDetails": "Kickstart your career in application development. Master Cloud Native and Full Stack Development using hands-on projects involving HTML, JavaScript, Node.js, Python",
+        "img":"https://i.ibb.co/0t3j1x7/IBM-Full-Stack-Cloud-Developer.png",
+        "star":"5"
+    },
+    {
+        "id": 5,
+        "ProjectName": "Data Engineering Foundations",
+        "ProjectDetails": "Build the Foundation for a Data Engineering Career. Develop hands-on experience with Python, SQL, and Relational Databases",
+        "img":"https://i.ibb.co/yWF1k6T/Data-Engineering-Foundations.jpg",
+        "star":"4"
+    },
+    {
+        "id": 6,
+        "ProjectName": "Data Analysis and Visualization",
+        "ProjectDetails": "Get ahead w/ Data Analysis & Visualization skills. Enhance your career by learning to analyze data using Excel spreadsheets",
+        "img":"https://i.ibb.co/FD44Q32/Data-Analysis-and-Visualization.png",
+        "star":"4"
+    },
+    {
+        "id": 7,
+        "ProjectName": "Key Technologies for Business",
+        "ProjectDetai":"Get Ahead with Key Business Technologies. Gain Foundational Understanding of Key Technologies Driving Modern Businesses",
+        "img":"https://i.ibb.co/2719dxf/Key-Technologies-for-Business.jpg",
+        "star":"3"
+    },
+    {
+        "id": 8,
+        "ProjectName": "Meta Social Media Marketing",
+        "ProjectDetails": "Launch your career in social media marketing. Build job-ready skills and credentials to go from beginner to job ready in about 5 months.",
+        "img":"https://i.ibb.co/5241kRT/Meta-Social-Media-Marketing.png",
+        "star":"5"
+    },
+    {
+        "id": 9,
+        "ProjectName": "IBM Applied AI Professional",
+        "ProjectDetails": "Kickstart your career in artificial intelligence. Learn Python, build a chatbot, explore machine learning and computer vision, and leverage IBM Watson.",
+        "img":"https://i.ibb.co/3Wdp0Bw/IBM-Applied-AI-Professional.jpg",
+        "star":"4"
+    },
+    {
+        "id": 10,
+        "ProjectName": "Python for Everybody Specialization",
+        "ProjectDetails": "Learn to Program and Analyze Data with Python. Develop programs to gather, clean, analyze, and visualize data.",
+        "img":"https://i.ibb.co/rpBs4pc/Python-for-Everybody-Specialization.jpg",
+        "star":"3"
+    },
+    {
+        "id": 11,
+        "ProjectName": "Google IT Automation with Python",
+        "ProjectDetails": "Learn in-demand skills like Python, Git, and IT automation to advance your career with analyze, and visualize data.",
+        "img":"https://i.ibb.co/5MwMkb4/Google-IT-Automation-with-Python.png",
+        "star":"5"
+    },
+    {
+        "id": 12,
+        "ProjectName": "Machine Learning Engineering",
+        "ProjectDetails": "Become a Machine Learning expert. Productionize your machine learning knowledge and expand your production engineering capabilities.",
+        "img":"https://i.ibb.co/SP8bBby/Machine-Learning-Engineering.png",
+        "star":"3"
+    }
+    
+]
