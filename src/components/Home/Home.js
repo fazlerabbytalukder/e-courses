@@ -5,6 +5,7 @@ import Faq from '../Faq/Faq';
 import Footer from '../Footer/Footer';
 import Navbar from '../Navbar/Navbar';
 import PopularCourses from '../PopularCourses/PopularCourses';
+import Teachers from '../Teachers/Teachers';
 import Testimonials from '../Testimonials/Testimonials';
 import './Home.css';
 
@@ -16,6 +17,7 @@ const Home = () => {
             <Categories></Categories>
             <PopularCourses></PopularCourses>
             <Faq></Faq>
+            <Teachers></Teachers>
             <Testimonials></Testimonials>
             <Footer></Footer>
         </div>

@@ -3,7 +3,6 @@ import './PopularCourse.css';
 
 const PopularCourse = ({ course }) => {
     const { ProjectName, ProjectDetails, img, star } = course;
-    console.log(course);
     return (
         <div>
             <div class="col card-height">

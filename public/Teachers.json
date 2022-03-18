@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "TecherName": "Ayeesha Abbasi",
+        "Designation": "Management Expert",
+        "img":"https://i.ibb.co/L8LTrZ7/Ayeesha-Abbasi.jpg",
+        "star":"5"
+    },
+    {
+        "id": 2,
+        "TecherName": "Patrick Beissner",
+        "Designation": "Economics Expert",
+        "img":"https://i.ibb.co/xD8fyzj/Patrick-Beissner.jpg",
+        "star":"5"
+    },
+    {
+        "id": 3,
+        "TecherName": "Sarah Adams",
+        "Designation": "Research Expert",
+        "img":"https://i.ibb.co/tXcDVMX/Sarah-Adams.jpg",
+        "star":"5"
+    },
+    {
+        "id": 4,
+        "TecherName": "Smriti Bajracharya",
+        "Designation": "Data Science",
+        "img":"https://i.ibb.co/Zzf13nv/Smriti-Bajracharya.jpg",
+        "star":"5"
+    },
+    {
+        "id": 5,
+        "TecherName": "Pat Barrett",
+        "Designation": "Web Expert",
+        "img":"https://i.ibb.co/c1FYs60/Pat-Barrett.jpg",
+        "star":"5"
+    },
+    {
+        "id": 6,
+        "TecherName": "Rajabi Asadabadi",
+        "Designation": "Ai Expert",
+        "img":"https://i.ibb.co/4sHkRX0/Mehdi-Rajabi-Asadabadi-2.jpg",
+        "star":"5"
+    },
+    {
+        "id": 7,
+        "TecherName": "Erdene Bayarjargal",
+        "Designation": "Database Expert",
+        "img":"https://i.ibb.co/WGbxqQC/Ariun-Bayarjargal.jpg",
+        "star":"5"
+    },
+    {
+        "id": 8,
+        "TecherName": "Armin Haller",
+        "Designation": "Machine Learning",
+        "img":"https://i.ibb.co/9bgGQRH/Armin-Haller.jpg",
+        "star":"5"
+    }
+    
+]
+
+
+
+
+
+
+
+
+
