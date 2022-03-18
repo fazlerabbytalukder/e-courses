@@ -7,6 +7,7 @@ import Home from './components/Home/Home';
 import Banner from './components/Banner/Banner';
 import About from './components/About/About';
 import ContactUs from './components/ContactUs/ContactUs';
+import Courses from './components/Courses/Courses';
 
 function App() {
   return (
@@ -27,6 +28,9 @@ function App() {
           </Route>
           <Route exact path='/contactus'>
             <ContactUs></ContactUs>
+          </Route>
+          <Route exact path='/courses'>
+            <Courses></Courses>
           </Route>
         </Switch>
       </BrowserRouter>

@@ -5,3 +5,8 @@
 .collapse-button-design{
     color: white;
 }
+
+
+li{
+    cursor: pointer;
+}
