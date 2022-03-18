@@ -18,7 +18,7 @@ const Categories = () => {
                                     <div className="card-body">
                                             <i style={{color:'white'}} className="fa-brands icon-design-1 fa-hive"></i>
                                             <h4 className="card-title">Blockchain</h4>
-                                            <p className="card-text">Blockchain Institutional Markets is a full-stack crypto services platform</p>
+                                            <small className="card-text">Blockchain Institutional Markets is a full-stack crypto services platform</small>
                                         </div>
                                 </div>
                             </div>
@@ -27,7 +27,7 @@ const Categories = () => {
                                     <div className="card-body">
                                         <i style={{ color: 'white' }} className="fa-solid fa-palette icon-design-2"></i>
                                             <h4 className="card-title">Graphic Design</h4>
-                                            <p className="card-text">Graphic design is a craft where professionals create visual content</p>
+                                            <small className="card-text">Graphic design is a craft where professionals create visual content</small>
                                         </div>
                                 </div>
                             </div>
@@ -36,7 +36,7 @@ const Categories = () => {
                                     <div className="card-body">
                                         <i style={{ color: 'white' }} className="fa-solid fa-coins icon-design-3"></i>
                                             <h4 className="card-title">Finance</h4>
-                                            <p className="card-text">Finance is a broad term that describes activities associated with banking</p>
+                                            <small className="card-text">Finance is a broad term that describes activities associated with banking</small>
                                         </div>
                                 </div>
                             </div>
@@ -45,7 +45,7 @@ const Categories = () => {
                                     <div className="card-body">
                                         <i style={{ color: 'white' }} className="fa-solid fa-bullhorn icon-design-4"></i>
                                             <h4 className="card-title">Marketing</h4>
-                                            <p className="card-text">Marketing refers to activities a company undertakes to promote</p>
+                                            <small className="card-text">Marketing refers to activities a company undertakes to promote</small>
                                         </div>
                                 </div>
                             </div>
@@ -54,7 +54,7 @@ const Categories = () => {
                                     <div className="card-body">
                                         <i style={{ color: 'white' }} className="fa-solid fa-music icon-design-3"></i>
                                             <h4 className="card-title">Music</h4>
-                                            <p className="card-text"> A new music service with official albums, singles, videos, remixes</p>
+                                            <small className="card-text"> A new music service with official albums, singles, videos, remixes</small>
                                         </div>
                                 </div>
                             </div>
@@ -63,7 +63,7 @@ const Categories = () => {
                                     <div className="card-body">
                                         <i style={{ color: 'white' }} className="fa-solid fa-user-tie icon-design-1"></i>
                                             <h4 className="card-title">Business</h4>
-                                            <p className="card-text">Business is the activity of making one's living or making money</p>
+                                            <small className="card-text">Business is the activity of making one's living or making money</small>
                                         </div>
                                 </div>
                             </div>

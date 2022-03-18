@@ -10,7 +10,7 @@ const PopularCourse = ({ course }) => {
                     <img src={img} class="card-img-top" alt="..." />
                     <div class="card-body">
                         <h5 class="card-title text-center my-3">{ProjectName}</h5>
-                        <p class="card-text text-center">{ProjectDetails}</p>
+                        <small class="card-text text-center">{ProjectDetails}</small>
                     </div>
                     <div class="card-footer d-flex justify-content-center align-items-center">
                         <button className='button2'>Learn More</button>
