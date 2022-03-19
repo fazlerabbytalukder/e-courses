@@ -2,6 +2,7 @@ import React from 'react';
 import Navbar from '../Navbar/Navbar';
 import './About.css';
 import achievementImg from '../../Images/6673-removebg-preview.png';
+import Footer from '../Footer/Footer';
 
 const About = () => {
     return (
@@ -47,6 +48,7 @@ const About = () => {
                     </div>
                 </div>
             </div>
+            <Footer></Footer>
         </div>
     );
 };

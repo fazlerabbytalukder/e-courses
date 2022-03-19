@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Course from '../Course/Course';
+import Footer from '../Footer/Footer';
 import Navbar from '../Navbar/Navbar';
 import './Courses.css';
 
@@ -23,6 +24,7 @@ const Courses = () => {
                     }
                 </div>
             </div>
+            <Footer></Footer>
         </div>
     );
 };
