@@ -1,0 +1,28 @@
+.card-bg{
+    background-color: #6D60F1;
+    border-radius: .6rem;
+}
+
+.card-bg:hover{
+    background-color: transparent;
+    border: 1px solid #6D60F1;
+}
+
+.icon-design{
+    padding: 1rem;
+    background-color: #F95849;
+    border-radius: .6rem;
+    margin-bottom: 1rem;
+}
+.icon-design2{
+    padding: 1rem;
+    background-color: #01BE90;
+    border-radius: .6rem;
+    margin-bottom: 1rem;
+}
+.icon-design3{
+    padding: 1rem;
+    background-color: #e6b243;
+    border-radius: .6rem;
+    margin-bottom: 1rem;
+}
